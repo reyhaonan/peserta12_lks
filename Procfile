@@ -1,1 +1,1 @@
-web: php artisan serve
+vendor/bin/heroku-php-apache2 public/
